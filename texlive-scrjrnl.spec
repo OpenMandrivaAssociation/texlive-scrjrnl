@@ -1,6 +1,6 @@
 Name:		texlive-scrjrnl
 Version:	27810
-Release:	1
+Release:	2
 Summary:	Typeset diaries or journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrjrnl
