@@ -3,7 +3,7 @@ Version:	27810
 Release:	2
 Summary:	Typeset diaries or journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrjrnl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scrjrnl
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrjrnl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrjrnl.doc.r%{version}.tar.xz
